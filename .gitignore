@@ -8,3 +8,6 @@ pubspec.lock
 
 build/
 *.iml
+
+# FVM Version Cache
+.fvm/
